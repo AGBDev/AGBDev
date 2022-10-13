@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AGBDev
 - 👀 I’m interested in game programming.
-- 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on stuff.
 - 📫 How to reach me ...
 
